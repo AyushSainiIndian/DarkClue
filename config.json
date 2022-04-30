@@ -1,0 +1,9 @@
+{
+	"ip":"DarkClueGaming.aternos.me",
+	"port": 20903,
+	"name": "Ayush",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 12341234 12341234",
+	"login-cmd":"/login 12341234"
+}
